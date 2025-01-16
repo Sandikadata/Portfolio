@@ -1,5 +1,5 @@
 # Sandika's Portfolio
-# [https://github.com/Sandikadata/Energy-Consumption-in-Steel-Industry] (https://github.com/Sandikadata/Energy-Consumption-in-Steel-Industry.git)
+# [Energy-Consumption-in-Steel-Industry] (https://github.com/Sandikadata/Energy-Consumption-in-Steel-Industry.git)
 
 *Data  
   The data consists of hourly electricity consumption by the steel industry for an entire year (2018). It includes timestamps and corresponding energy usage (kWh) values, loaded from a CSV file from kaggle. 
