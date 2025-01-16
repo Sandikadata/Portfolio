@@ -1,8 +1,9 @@
 # Sandika's Portfolio
 # [Energy-Consumption-in-Steel-Industry](https://github.com/Sandikadata/Energy-Consumption-in-Steel-Industry.git)
 
-*Data  
+##*Data  
   The data consists of hourly electricity consumption by the steel industry for an entire year (2018). It includes timestamps and corresponding energy usage (kWh) values, loaded from a CSV file from kaggle. 
+  
 *Model 
   The analysis utilizes the **XGBoost Regressor** (`xgb.XGBRegressor`), a gradient-boosting algorithm specifically effective for time series and tabular data.
 
