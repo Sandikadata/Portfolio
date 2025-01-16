@@ -1,6 +1,5 @@
 # Sandika's Portfolio
 #Energy-Consumption-in-Steel-Industry (https://github.com/Sandikadata/Energy-Consumption-in-Steel-Industry.git)
-*### Summary
 
 - **Data Taken**:  
   The data consists of hourly electricity consumption by the steel industry for an entire year (2018). It includes timestamps and corresponding energy usage (kWh) values, loaded from a CSV file from kaggle. 
@@ -25,4 +24,4 @@
 
 ### Outcome  
 - The model effectively forecasts energy consumption with an emphasis on understanding temporal patterns, which is visually validated against the test dataset.
-*
+
